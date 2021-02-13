@@ -1,1 +1,1 @@
-# Image-Video-Computing-Tools
+# Video-Hand-Gesture-Recognition
