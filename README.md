@@ -1,1 +1,1 @@
-# Video-Hand-Gesture-Recognition
+# Video Hand Gesture Detection
