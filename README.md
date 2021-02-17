@@ -1,4 +1,4 @@
-# Video Hand Gesture Detection
+# Video Hand Gestures Detection
 
 Complete desktop python application.
 
